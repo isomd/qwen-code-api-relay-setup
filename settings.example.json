@@ -1,0 +1,12 @@
+{
+  "modelProviders": {
+    "openai": [
+      {
+        "id": "deepseek-v4.1-flash",
+        "name": "DeepSeek V4.1 Flash · Orbis",
+        "envKey": "ORBIS_API_KEY",
+        "baseUrl": "https://api.orbiorbi.com/v1"
+      }
+    ]
+  }
+}
